@@ -1,0 +1,8 @@
+{
+    "keyPath": "./certs/private.pem.key",
+    "certPath": "./certs/certificate.pem.crt",
+    "caPath": "./certs/root-CA.crt",
+    "clientId": "DEVICE NAME FROM AWS IOT",
+    "region": "us-east-1",
+    "APP_Id": "amzn1.ask.skill.123432321323213213 - TAKE THIS FROM YOUR ALEXA SKILL"
+}

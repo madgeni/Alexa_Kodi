@@ -1,0 +1,12 @@
+{
+    "keyPath": "./certs/private.pem.key",
+    "certPath": "./certs/certificate.pem.crt",
+    "caPath": "./certs/root-CA.crt",
+    "clientId": "*whatever you've called your device in AWS IOT",
+    "keepalive": true,
+    "clean": true,
+    "region": "us-east-1",
+    "APP_Id": "SKILL ID from ALEXA SKILL"
+    "host": "your internal KODI IP",
+    "port": 9090
+}

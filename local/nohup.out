@@ -1,0 +1,130 @@
+connected to the server
+"PlayMovie the force awakens"
+message 4Kodi "PlayMovie the force awakens"
+[ '"PlayMovie', ' ', 'the', ' ', 'force', ' ', 'awakens"' ]
+action is  PlayMovie
+trythis is [ 'the', 'force', 'awakens"' ]
+action is  PlayMovie
+am i here?
+the force awakens
+205
+is this my movie?  205
+Movie  205 started
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"PlayMovie raiders of the lost ark"
+message 4Kodi "PlayMovie raiders of the lost ark"
+[ '"PlayMovie',
+  ' ',
+  'raiders',
+  ' ',
+  'of',
+  ' ',
+  'the',
+  ' ',
+  'lost',
+  ' ',
+  'ark"' ]
+action is  PlayMovie
+trythis is [ 'raiders', 'of', 'the', 'lost', 'ark"' ]
+action is  PlayMovie
+am i here?
+raiders of the lost ark
+176
+is this my movie?  176
+Movie  176 started
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"PlayNextEpisode west world"
+message 4Kodi "PlayNextEpisode west world"
+[ '"PlayNextEpisode', ' ', 'west', ' ', 'world"' ]
+action is  PlayNextEpisode
+trythis is [ 'west', 'world"' ]
+string version is  ["west","world\""]
+tv show is  west world
+action is  PlayNextEpisode
+"PlayMovie finding Dory"
+message 4Kodi "PlayMovie finding Dory"
+[ '"PlayMovie', ' ', 'finding', ' ', 'Dory"' ]
+action is  PlayMovie
+trythis is [ 'finding', 'Dory"' ]
+action is  PlayMovie
+am i here?
+finding Dory
+342
+is this my movie?  342
+Movie  342 started
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"PlayMovie finding Dory"
+message 4Kodi "PlayMovie finding Dory"
+[ '"PlayMovie', ' ', 'finding', ' ', 'Dory"' ]
+action is  PlayMovie
+trythis is [ 'finding', 'Dory"' ]
+action is  PlayMovie
+am i here?
+finding Dory
+342
+is this my movie?  342
+Movie  342 started
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"UpdateVideo"
+message 4Kodi "UpdateVideo"
+[ '"UpdateVideo"' ]
+action is  UpdateVideo
+action is  UpdateVideo
+Scanning video
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"SubtitlesOff"
+message 4Kodi "SubtitlesOff"
+[ '"SubtitlesOff"' ]
+action is  SubtitlesOff
+action is  SubtitlesOff
+Subtitles Off?
+"Stop"
+message 4Kodi "Stop"
+[ '"Stop"' ]
+action is  Stop
+action is  Stop
+"PlayNextEpisode westworld"
+message 4Kodi "PlayNextEpisode westworld"
+[ '"PlayNextEpisode', ' ', 'westworld"' ]
+action is  PlayNextEpisode
+trythis is [ 'westworld"' ]
+string version is  ["westworld\""]
+tv show is  westworld
+action is  PlayNextEpisode
+do i get back here?  25
+wuh?  { episodes: 
+   [ { episode: 4,
+       episodeid: 394,
+       file: 'nfs://192.168.88.160/volume1/tv/Westworld/Westworld - 1x04 - Dissonance Theory.mkv',
+       firstaired: '2016-10-23',
+       label: '1x04. Dissonance Theory',
+       lastplayed: '2016-11-13 22:17:52',
+       resume: [Object],
+       season: 1 } ],
+  limits: { end: 1, start: 0, total: 4 } }
+episode_no  4
