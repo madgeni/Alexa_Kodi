@@ -3,3 +3,4 @@ launch.json
 test*.json
 main.js
 conf.json
+context.json
