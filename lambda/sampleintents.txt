@@ -1,0 +1,147 @@
+{
+    "intents": [
+        {
+            "intent": "AMAZON.ResumeIntent"
+        },
+        {
+            "intent": "AMAZON.PauseIntent"
+        },
+        {
+            "intent": "NewShowInquiry",
+            "slots": [
+                {
+                    "name": "Show",
+                    "type": "SHOWS"
+                }
+            ]
+        },
+        {
+            "intent": "CleanVideo",
+            "slots": []
+        },
+        {
+            "intent": "UpdateVideo",
+            "slots": []
+        },
+        {
+            "intent": "PlayPause",
+            "slots": []
+        },
+        {
+            "intent": "StepForward",
+            "slots": []
+        },
+        {
+            "intent": "StepBackward",
+            "slots": []
+        },
+        {
+            "intent": "BigStepForward",
+            "slots": []
+        },
+        {
+            "intent": "BigStepBackward",
+            "slots": []
+        },
+        {
+            "intent": "Stop",
+            "slots": []
+        },
+        {
+            "intent": "PlayLatestEpisode",
+            "slots": [
+                {
+                    "name": "Show",
+                    "type": "SHOWS"
+                }
+            ]
+        },
+        {
+            "intent": "PlayNextEpisode",
+            "slots": [
+                {
+                    "name": "Show",
+                    "type": "SHOWS"
+                }
+            ]
+        },
+        {
+            "intent": "PlayMovie",
+            "slots": [
+                {
+                    "name": "Movie",
+                    "type": "MOVIES"
+                }
+            ]
+        },
+        {
+            "intent": "Prev",
+            "slots": []
+        },
+        {
+            "intent": "Skip",
+            "slots": []
+        },
+        {
+            "intent": "StartOver",
+            "slots": []
+        },
+        {
+            "intent": "Home",
+            "slots": []
+        },
+        {
+            "intent": "Back",
+            "slots": []
+        },
+        {
+            "intent": "Select",
+            "slots": []
+        },
+        {
+            "intent": "Menu",
+            "slots": []
+        },
+        {
+            "intent": "Mute",
+            "slots": []
+        },
+      	{
+          	"intent": "GoodByeIntent",
+          	"slots": []
+        },
+        {
+            "intent": "SubtitlesOn",
+            "slots": []
+        },
+        {
+            "intent": "SubtitlesOff",
+            "slots": []
+        },
+      	{
+          	"intent": "GetSubtitles",
+          	"slots": []
+        },
+        {
+            "intent": "Reboot",
+            "slots": []
+        },
+        {
+            "intent": "Shutdown",
+            "slots": []
+        },
+        {
+            "intent": "Suspend",
+            "slots": []
+        },
+        {
+            "intent": "ContinueShow",
+            "slots": []
+        },
+        
+        {
+            "intent": "CurrentPlayItemInquiry",
+            "slots": []
+        }
+    ]
+}

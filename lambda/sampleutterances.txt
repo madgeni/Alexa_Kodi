@@ -1,0 +1,85 @@
+Back go back
+Back navigate
+CleanVideo to clean library
+CleanVideo clean video library
+ContinueShow continue last show
+ContinueShow continue show
+ContinueShow continue watching last show
+ContinueShow continue watching show
+CurrentPlayItemInquiry what episode is currently playing
+CurrentPlayItemInquiry what episode is playing
+CurrentPlayItemInquiry what episode is this
+CurrentPlayItemInquiry what is currently playing
+CurrentPlayItemInquiry what is playing
+CurrentPlayItemInquiry what is this
+CurrentPlayItemInquiry what movie is currently playing
+CurrentPlayItemInquiry what movie is playing
+CurrentPlayItemInquiry what movie is this
+CurrentPlayItemInquiry what show is currently playing
+CurrentPlayItemInquiry what show is playing
+CurrentPlayItemInquiry what show is this
+CurrentPlayItemInquiry what video is currently playing
+CurrentPlayItemInquiry what video is playing
+CurrentPlayItemInquiry what video is this
+Home navigate home
+Menu open menu
+Mute mute
+Mute unmute
+Mute toggle mute
+PlayLatestEpisode play latest episode of {Show}
+PlayLatestEpisode play newest episode of {Show}
+PlayLatestEpisode play the latest episode of {Show}
+PlayLatestEpisode play the newest episode of {Show}
+PlayLatestEpisode watch latest episode of {Show}
+PlayLatestEpisode watch newest episode of {Show}
+PlayLatestEpisode watch the latest episode of {Show}
+PlayLatestEpisode watch the newest episode of {Show}
+PlayMovie to play the movie {Movie}
+PlayMovie play movie {Movie}
+PlayMovie watch movie {Movie}
+PlayNextEpisode play next episode of {Show}
+PlayNextEpisode play the next episode of {Show}
+PlayNextEpisode watch next episode of {Show}
+PlayNextEpisode watch the next episode of {Show}
+PlayPause pause the movie
+PlayPause pause the show
+PlayPause continue the movie
+PlayPause continue the show
+PlayPause play
+PlayPause resume
+Prev previous
+Reboot reboot
+Reboot to reboot
+Reboot reboot system
+Select select
+Shutdown to shut down
+Shutdown shut down
+Shutdown shut down system
+Skip next
+Skip skip
+Skip skip song
+StartOver replay
+StartOver start over
+Stop cancel
+Stop shut up
+Stop stop
+GetSubtitles download subtitles
+GetSubtitles get subtitles
+SubtitlesOn enable subtitles
+SubtitlesOn to turn on subtitles
+SubtitlesOn turn on subtitles
+SubtitlesOff disable subtitles
+SubtitlesOff to turn off subtitles
+SubtitlesOff turn off subtitles
+Suspend suspend
+Suspend suspend system
+Suspend sleep
+Suspend sleep system
+Suspend put system to sleep
+Suspend go to sleep
+CleanVideo to clean the library
+UpdateVideo to update the library
+UpdateVideo update library
+UpdateVideo update video library
+GoodByeIntent thank you
+GoodByeIntent enough

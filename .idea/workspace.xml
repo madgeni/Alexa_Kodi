@@ -14,7 +14,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../alexa-domo/domapi.js" afterPath="$PROJECT_DIR$/../alexa-domo/domapi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../alexa-domo/node_modules/domoticz-api/api/domoticz.js" afterPath="$PROJECT_DIR$/../alexa-domo/node_modules/domoticz-api/api/domoticz.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../alexa-domo/package.json" afterPath="$PROJECT_DIR$/../alexa-domo/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/localkodi.js" afterPath="$PROJECT_DIR$/local/localkodi.js" />
     </list>
     <ignored path="kodi.iws" />
@@ -38,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="localkodi.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="localkodi.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local/localkodi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+            <state relative-caret-position="260">
+              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conf.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lambda/conf.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -335,12 +334,12 @@
       <workItem from="1478340634576" duration="39517000" />
       <workItem from="1478949501353" duration="149000" />
       <workItem from="1478949686220" duration="15438000" />
-      <workItem from="1479056390311" duration="10052000" />
+      <workItem from="1479056390311" duration="10214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68970000" />
+    <option name="totallyTimeSpent" value="69132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -633,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lambda/conf.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/conf.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -667,8 +658,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/local/localkodi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        <state relative-caret-position="260">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/conf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>

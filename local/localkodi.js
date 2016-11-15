@@ -82,7 +82,12 @@ device.on('message', function (topic, message) {
             tvshow = tvshow.replace(/\\/g, "");
             tvshow = tvshow.replace(/[\[\]']+/g,'');
             console.log("tv show is ", tvshow);
-            
+            if(tvshow.startsWith("west")){
+                tvshow = tvshow[0].concat(tvshow[1]);
+            }
+            if(tvshow.startsWith("black")){
+                tvshow = tvshow[0].concat(tvshow[1]);
+            }
             //tv = tv.substring(0, tv.length - 2);
         }
 
