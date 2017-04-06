@@ -30,3 +30,5 @@ Add the enforced Pause/Resume Intents, then copy in the intents from the SampleI
 and add in Slots for MOVIES and SHOWS.
 then Next.
 
+The localkodi.js needs to be running all the time - so copy it to your kodi box, and run this in the background - 'sudo nohup node localkodi.js &' works for me. Make sure to copy the certs and change the conf.json also
+
